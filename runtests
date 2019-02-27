@@ -1,0 +1,9 @@
+./t 1simpleterms
+./t 2terms
+./t 3indexedterms
+./t 4expressions
+./t 5simplestats
+./t 6comparisons
+./t 7conditions
+./t 8ifloops
+./t 9fndecls
